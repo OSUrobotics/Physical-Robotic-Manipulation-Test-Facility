@@ -582,10 +582,6 @@ template {
   display: none;
 }
 
-:root {
-  color-scheme: light;
-}
-
 * {
   box-sizing: border-box;
 }
