@@ -5,4 +5,5 @@ has_children: true
 nav_order: 2
 ---
 
-# Mechs
+# Testbeds
+See the pages below for our current testbeds.
