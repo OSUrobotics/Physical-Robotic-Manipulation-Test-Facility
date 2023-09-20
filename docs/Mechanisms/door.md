@@ -1,7 +1,7 @@
 ---
 title: Door
 layout: default
-parent: Mechanisms
+parent: Testbeds
 nav_order: 2
 ---
 
