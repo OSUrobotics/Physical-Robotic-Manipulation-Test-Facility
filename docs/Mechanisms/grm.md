@@ -7,7 +7,7 @@ nav_order: 1
 
 # Grasp Reset Mechanism
 
-<img src="grasp_reset.svg" alt="drawing" width="400"/>
+<img src="grasp_reset.jpg" alt="drawing" width="400"/>
 
 The Grasp Reset Mechanism (GRM) resets an object to a home position and a variable orientation. It also swaps between objects, collects data, and interfaces with a variety of manipulators. The GRM was designed to enable large scale grasping trials --- whether for benchmarking, testing, training learning models, or generating datasets.
 

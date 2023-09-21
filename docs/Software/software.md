@@ -40,5 +40,6 @@ Now, follow the instructions in the [infrastructure-raspi repository](https://gi
 
 ## Arm/Manipulator Control
 
+Our [infrastructure-arms repository](https://github.com/OSUrobotics/infrastructure-arms) provides a template, as well as drivers and example code for the Kinova Gen 3 and Kinova JACO 2 arms. Instructions to use, or to modify for other manipulators is avaliable in the repository's README.
 
 
