@@ -16,7 +16,7 @@ The following sections will provide detailed documentaion about the mechanism an
 ---
 
 ## CAD
-> **_NOTE:_**  Full rendering with be added here shortly.
+<img src="drawer_render.png" alt="drawing" width="400"/>
 
 A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism [are avaliable at this link](https://oregonstate.box.com/s/5hvh5zr6w84fwhshscfek9fnh1xklzux), and embeded below. 
 

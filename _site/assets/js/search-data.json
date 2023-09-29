@@ -71,7 +71,7 @@
   },"10": {
     "doc": "Drawer",
     "title": "CAD",
-    "content": "NOTE: Full rendering with be added here shortly. A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are avaliable at this link, and embeded below. ",
+    "content": ". A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are avaliable at this link, and embeded below. ",
     "url": "/docs/Mechanisms/drawer.html#cad",
     
     "relUrl": "/docs/Mechanisms/drawer.html#cad"
