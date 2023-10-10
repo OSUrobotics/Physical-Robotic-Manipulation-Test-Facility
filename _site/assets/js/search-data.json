@@ -15,7 +15,7 @@
   },"2": {
     "doc": "Door",
     "title": "CAD",
-    "content": "NOTE: Full rendering with be added here shortly. A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are avaliable at this link, and embeded below. ",
+    "content": ". A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are avaliable at this link, and embeded below. ",
     "url": "/docs/Mechanisms/door.html#cad",
     
     "relUrl": "/docs/Mechanisms/door.html#cad"
@@ -148,7 +148,7 @@
   },"21": {
     "doc": "Home",
     "title": "Physical Robotic Manipulation Test Facility",
-    "content": "Our Physical Robotic Manipulation Test Facility is composed of multiple testbeds to adance the field of grasping and maniuplation. For more information, please visit the pages avaliable in the navigation menu. ",
+    "content": "Our Physical Robotic Manipulation Test Facility is composed of multiple testbeds to advance the field of grasping and maniuplation. For more information, please visit the pages avaliable in the navigation menu. ",
     "url": "/#physical-robotic-manipulation-test-facility",
     
     "relUrl": "/#physical-robotic-manipulation-test-facility"
