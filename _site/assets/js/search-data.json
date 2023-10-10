@@ -8,21 +8,21 @@
   },"1": {
     "doc": "Door",
     "title": "Door Reset Mechanism",
-    "content": ". The Door Reset Mechanism (DORM) resets a cabinet to its closed position. It also uses electromagnets to provide a variable resistance to opening, integrates orientation and force sensors. The following sections will provide detailed documentaion about the mechanism and its software. ",
+    "content": ". The Door Reset Mechanism (DORM) resets a cabinet to its closed position. It also uses electromagnets to provide a variable resistance to opening, integrates orientation and force sensors. The following sections will provide detailed documentation about the mechanism and its software. ",
     "url": "/docs/Mechanisms/door.html#door-reset-mechanism",
     
     "relUrl": "/docs/Mechanisms/door.html#door-reset-mechanism"
   },"2": {
     "doc": "Door",
     "title": "CAD",
-    "content": ". A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are avaliable at this link, and embeded below. ",
+    "content": ". A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are available at this link, and embedded below. ",
     "url": "/docs/Mechanisms/door.html#cad",
     
     "relUrl": "/docs/Mechanisms/door.html#cad"
   },"3": {
     "doc": "Door",
     "title": "Electrical",
-    "content": "Schematics and Gerber PCB files are avaliable here. ",
+    "content": "Schematics and Gerber PCB files are available here. ",
     "url": "/docs/Mechanisms/door.html#electrical",
     
     "relUrl": "/docs/Mechanisms/door.html#electrical"
@@ -36,7 +36,7 @@
   },"5": {
     "doc": "Door/Drawer Dataset",
     "title": "The Door/Drawer Reset Mechanism Dataset",
-    "content": "The dataset is embeded below and also avaliable here. ",
+    "content": "The dataset is embedded below and also available here. ",
     "url": "/docs/Datasets/door_drawer_dataset.html#the-doordrawer-reset-mechanism-dataset",
     
     "relUrl": "/docs/Datasets/door_drawer_dataset.html#the-doordrawer-reset-mechanism-dataset"
@@ -50,7 +50,7 @@
   },"7": {
     "doc": "Door/Drawer Reset Mechanisms",
     "title": "The Door and Drawer Reset Mechanisms: Automated Mechanisms for Testing and Data Collection",
-    "content": "This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible. The paper, “The Door and Drawer Reset Mechanisms: Automated Mechanisms for Testing and Data Collection” is embeded below or available at this link. ",
+    "content": "This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible. The paper, “The Door and Drawer Reset Mechanisms: Automated Mechanisms for Testing and Data Collection” is embedded below or available at this link. ",
     "url": "/docs/Papers/door_drawer_reset_mechanisms.html#the-door-and-drawer-reset-mechanisms-automated-mechanisms-for-testing-and-data-collection",
     
     "relUrl": "/docs/Papers/door_drawer_reset_mechanisms.html#the-door-and-drawer-reset-mechanisms-automated-mechanisms-for-testing-and-data-collection"
@@ -64,21 +64,21 @@
   },"9": {
     "doc": "Drawer",
     "title": "Drawer Reset Mechanism",
-    "content": ". The Drawer Reset Mechanism (DWRM) resets a drawer to its closed position. It also uses a mechanical brake to provide a variable resistance to opening, integrates position and force sensors. The following sections will provide detailed documentaion about the mechanism and its software. ",
+    "content": ". The Drawer Reset Mechanism (DWRM) resets a drawer to its closed position. It also uses a mechanical brake to provide a variable resistance to opening, integrates position and force sensors. The following sections will provide detailed documentation about the mechanism and its software. ",
     "url": "/docs/Mechanisms/drawer.html#drawer-reset-mechanism",
     
     "relUrl": "/docs/Mechanisms/drawer.html#drawer-reset-mechanism"
   },"10": {
     "doc": "Drawer",
     "title": "CAD",
-    "content": ". A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are avaliable at this link, and embeded below. ",
+    "content": ". A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are available at this link, and embedded below. ",
     "url": "/docs/Mechanisms/drawer.html#cad",
     
     "relUrl": "/docs/Mechanisms/drawer.html#cad"
   },"11": {
     "doc": "Drawer",
     "title": "Electrical",
-    "content": "Schematics and Gerber PCB files are avaliable here. ",
+    "content": "Schematics and Gerber PCB files are available here. ",
     "url": "/docs/Mechanisms/drawer.html#electrical",
     
     "relUrl": "/docs/Mechanisms/drawer.html#electrical"
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Grasp Reset Mechanism",
     "title": "The Grasp Reset Mechanism: An Automated Apparatus for Conducting Grasping Trials",
-    "content": "This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible. The paper, “The Grasp Reset Mechanism: An Automated Apparatus for Conducting Grasping Trials” is embeded below or available at this link. ",
+    "content": "This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible. The paper, “The Grasp Reset Mechanism: An Automated Apparatus for Conducting Grasping Trials” is embedded below or available at this link. ",
     "url": "/docs/Papers/grasp-reset-mechanism.html#the-grasp-reset-mechanism-an-automated-apparatus-for-conducting-grasping-trials",
     
     "relUrl": "/docs/Papers/grasp-reset-mechanism.html#the-grasp-reset-mechanism-an-automated-apparatus-for-conducting-grasping-trials"
@@ -106,21 +106,21 @@
   },"15": {
     "doc": "Grasp Reset",
     "title": "Grasp Reset Mechanism",
-    "content": ". The Grasp Reset Mechanism (GRM) resets an object to a home position and a variable orientation. It also swaps between objects, collects data, and interfaces with a variety of manipulators. The GRM was designed to enable large scale grasping trials — whether for benchmarking, testing, training learning models, or generating datasets. The following sections will provide detailed documentaion about the mechanism and its software. ",
+    "content": ". The Grasp Reset Mechanism (GRM) resets an object to a home position and a variable orientation. It also swaps between objects, collects data, and interfaces with a variety of manipulators. The GRM was designed to enable large scale grasping trials — whether for benchmarking, testing, training learning models, or generating datasets. The following sections will provide detailed documentation about the mechanism and its software. ",
     "url": "/docs/Mechanisms/grm.html#grasp-reset-mechanism",
     
     "relUrl": "/docs/Mechanisms/grm.html#grasp-reset-mechanism"
   },"16": {
     "doc": "Grasp Reset",
     "title": "CAD",
-    "content": "NOTE: Full rendering with be added here shortly. A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are avaliable at this link, and embeded below. ",
+    "content": "NOTE: Full rendering with be added here shortly. A complete CAD assembly (Solidworks 2023) and bill of materials (Excel) of the mechanism are available at this link, and embedded below. ",
     "url": "/docs/Mechanisms/grm.html#cad",
     
     "relUrl": "/docs/Mechanisms/grm.html#cad"
   },"17": {
     "doc": "Grasp Reset",
     "title": "Electrical",
-    "content": "Schematics for the entire mechanism, and Gerber PCB files are avaliable here. ",
+    "content": "Schematics for the entire mechanism, and Gerber PCB files are available here. ",
     "url": "/docs/Mechanisms/grm.html#electrical",
     
     "relUrl": "/docs/Mechanisms/grm.html#electrical"
@@ -134,7 +134,7 @@
   },"19": {
     "doc": "Grasp Reset Dataset",
     "title": "The Grasp Reset Mechanism Dataset",
-    "content": "The dataset is embeded below and also avaliable here. ",
+    "content": "The dataset is embedded below and also available here. ",
     "url": "/docs/Datasets/grm_dataset.html#the-grasp-reset-mechanism-dataset",
     
     "relUrl": "/docs/Datasets/grm_dataset.html#the-grasp-reset-mechanism-dataset"
@@ -148,7 +148,7 @@
   },"21": {
     "doc": "Home",
     "title": "Physical Robotic Manipulation Test Facility",
-    "content": "Our Physical Robotic Manipulation Test Facility is composed of multiple testbeds to advance the field of grasping and manipulation. For more information, please visit the pages avaliable in the navigation menu. ",
+    "content": "Our Physical Robotic Manipulation Test Facility is composed of multiple testbeds to advance the field of grasping and manipulation. For more information, please visit the pages available in the navigation menu. ",
     "url": "/#physical-robotic-manipulation-test-facility",
     
     "relUrl": "/#physical-robotic-manipulation-test-facility"
@@ -176,14 +176,14 @@
   },"25": {
     "doc": "Software",
     "title": "Initial Setup",
-    "content": "Control Computer . As ROS Melodic is not compatible with the latest versions of Ubuntu (and to enable easy setup across multiple devices), a Docker container is used. The Docker container is build from Ubuntu 18.04, and enables the control computer to be running newer versions of Ubuntu or other operating systems. The infrastructrue-packages repository provides setup instuctions for the container, and includes all of the base modules (FlexBE, custom messages, visualization, etc.). Raspberry Pi . The Raspberry Pi requires a Ubuntu 18.04 image with ROS Melodic. We provide one, as well instructions for flashing here. Once the Raspberry Pi is booted up, we recomend updating packages with the following: . sudo apt-get update &amp;&amp; sudo apt-get upgrade . Now, follow the instructions in the infrastructure-raspi repository to finish setup on the Pi. ",
+    "content": "Control Computer . As ROS Melodic is not compatible with the latest versions of Ubuntu (and to enable easy setup across multiple devices), a Docker container is used. The Docker container is build from Ubuntu 18.04, and enables the control computer to be running newer versions of Ubuntu or other operating systems. The infrastructure-packages repository provides setup instructions for the container, and includes all of the base modules (FlexBE, custom messages, visualization, etc.). Raspberry Pi . The Raspberry Pi requires a Ubuntu 18.04 image with ROS Melodic. We provide one, as well instructions for flashing here. Once the Raspberry Pi is booted up, we recommend updating packages with the following: . sudo apt-get update &amp;&amp; sudo apt-get upgrade . Now, follow the instructions in the infrastructure-raspi repository to finish setup on the Pi. ",
     "url": "/docs/Software/software.html#initial-setup",
     
     "relUrl": "/docs/Software/software.html#initial-setup"
   },"26": {
     "doc": "Software",
     "title": "Arm/Manipulator Control",
-    "content": "Our infrastructure-arms repository provides a template, as well as drivers and example code for the Kinova Gen 3 and Kinova JACO 2 arms. Instructions to use, or to modify for other manipulators is avaliable in the repository’s README. ",
+    "content": "Our infrastructure-arms repository provides a template, as well as drivers and example code for the Kinova Gen 3 and Kinova JACO 2 arms. Instructions to use, or to modify for other manipulators is available in the repository’s README. ",
     "url": "/docs/Software/software.html#armmanipulator-control",
     
     "relUrl": "/docs/Software/software.html#armmanipulator-control"

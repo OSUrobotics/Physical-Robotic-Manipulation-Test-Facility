@@ -1,5 +1,5 @@
 # just-the-docs-template
-
+Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;

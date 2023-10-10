@@ -24,14 +24,14 @@ Currently, the systems use ROS Melodic. Details about setting up each are outlin
 
 As ROS Melodic is not compatible with the latest versions of Ubuntu (and to enable easy setup across multiple devices), a Docker container is used. The Docker container is build from Ubuntu 18.04, and enables the control computer to be running newer versions of Ubuntu or other operating systems.
 
-The [infrastructrue-packages repository](https://github.com/OSUrobotics/infrastructure-packages) provides setup instuctions for the container, and includes all of the base modules (FlexBE, custom messages, visualization, etc.).
+The [infrastructure-packages repository](https://github.com/OSUrobotics/infrastructure-packages) provides setup instructions for the container, and includes all of the base modules (FlexBE, custom messages, visualization, etc.).
 
 
 ### Raspberry Pi
 
 The Raspberry Pi requires a Ubuntu 18.04 image with ROS Melodic. [We provide one, as well instructions for flashing here](https://oregonstate.box.com/s/s0gt75lpap5d37oyjeo47on6a7t4ze4d).
 
-Once the Raspberry Pi is booted up, we recomend updating packages with the following:
+Once the Raspberry Pi is booted up, we recommend updating packages with the following:
 ```console,
    sudo apt-get update && sudo apt-get upgrade
 ```
@@ -40,6 +40,6 @@ Now, follow the instructions in the [infrastructure-raspi repository](https://gi
 
 ## Arm/Manipulator Control
 
-Our [infrastructure-arms repository](https://github.com/OSUrobotics/infrastructure-arms) provides a template, as well as drivers and example code for the Kinova Gen 3 and Kinova JACO 2 arms. Instructions to use, or to modify for other manipulators is avaliable in the repository's README.
+Our [infrastructure-arms repository](https://github.com/OSUrobotics/infrastructure-arms) provides a template, as well as drivers and example code for the Kinova Gen 3 and Kinova JACO 2 arms. Instructions to use, or to modify for other manipulators is available in the repository's README.
 
 
